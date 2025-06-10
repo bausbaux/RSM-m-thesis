@@ -1,10 +1,6 @@
 # RSM-m-thesis
 
-No worries, your loyalty is appreciated, noble analyst.
 
-Here's the revised README with the correct file references from your screenshot:
-
----
 
 # Employee Sentiment and GDPR Impact — Thesis Codebase
 
@@ -14,7 +10,7 @@ The thesis investigates how the EU General Data Protection Regulation (GDPR) inf
 
 ---
 
-## 📁 Structure
+##  Structure/Notebook descriptions
 
 * **`Almost done.ipynb`** – Finalized notebook integrating all major stages of the analysis.
 * **`Dataset preprocess and exploration.ipynb`** – Initial data wrangling, filtering, and inspection.
@@ -29,7 +25,7 @@ The thesis investigates how the EU General Data Protection Regulation (GDPR) inf
 
 ---
 
-## 🔍 Objectives
+## Objectives
 
 1. Preprocess millions of employee reviews and tag GDPR exposure
 2. Compute sentiment scores using VADER and validate with BERT
@@ -40,7 +36,7 @@ The thesis investigates how the EU General Data Protection Regulation (GDPR) inf
 
 ---
 
-## 🧮 Key Code Sections
+## Key Code Sections
 
 ### 1. **Preprocessing & Metadata**
 
@@ -68,7 +64,7 @@ The thesis investigates how the EU General Data Protection Regulation (GDPR) inf
 
 ---
 
-Major packages:
+Major  key central packages:
 
 * `pandas`, `numpy`, `matplotlib`, `seaborn`
 * `nltk`, `vaderSentiment`, `transformers`
