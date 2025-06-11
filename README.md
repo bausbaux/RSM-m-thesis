@@ -64,7 +64,7 @@ The thesis investigates how the EU General Data Protection Regulation (GDPR) inf
 
 ---
 
-Major  key central packages:
+Major  key central crtical packages:
 
 * `pandas`, `numpy`, `matplotlib`, `seaborn`
 * `nltk`, `vaderSentiment`, `transformers`
